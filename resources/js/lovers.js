@@ -78,5 +78,11 @@ var peopleLovePapa = [
 		name: "Novel.js",
 		description: "is a text adventure framework that uses Papa Parse to enable user-friendly translations.",
 		quote: "Papa saves countless hours of work and makes reading large CSV files so easy!"
+	},
+	{
+		link: "https://github.com/TekMonksGitHub/json_esb",
+		name: "JSON_ESB from TekMonks",
+		description: "High performance JSON based ESB, uses Papa for CSV parsing.",
+		quote: "JSON ESB uses Papa for high performance, easy CSV parsing and unparsing."
 	}
 ];
